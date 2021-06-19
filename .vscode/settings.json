@@ -1,0 +1,13 @@
+{
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "vsciot-vscode.azure-iot-toolkit",
+    "editor.parameterHints.cycle": true,
+    "editor.columnSelection": true,
+    "sde.buildOnSave": false,
+    "files.autoSave": "afterDelay",
+    "yaml.schemas": {
+    
+    },
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe"
+}
